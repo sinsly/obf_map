@@ -1,6 +1,6 @@
 # m40fuscation
 
-## What this is
+## What at is m40fuscation and how does it work?
 
 This is a small Lua helper/loader used to **package** and **decompile** an obfuscated string representation of a Lua script.
 
