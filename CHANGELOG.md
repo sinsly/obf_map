@@ -24,3 +24,8 @@
 * Updated obfuscation system.
 * Free unlimited public access usage.
 * Creation through roblox still possible but not needed.
+
+## [0.1.25] - Content update | 12/6/25
+
+* Level 3 added.
+* Junk spam added.
